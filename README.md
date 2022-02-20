@@ -11,8 +11,7 @@
 In order to do our analyisis first we have to summarize our data using a pivot table using the date the fundraising was launched. We want to know the outcome of those fundraising based on the launch date. We also need to filter the parent category that we are interested in, which in our case is theater. 
 (see below images for the results)
 
-![image](https://user-images.githubusercontent.com/99451833/154867645-2de22902-6b94-4d65-bcf0-bfd85d8a8f92.png)
-
+![image](https://user-images.githubusercontent.com/99451833/154867672-70e82b47-7fed-41b8-8a41-4013d0174e7d.png)
 
 ![image](https://user-images.githubusercontent.com/99451833/154864221-5cf89631-6ca0-494f-9de6-4c227621db9d.png)
 
