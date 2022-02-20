@@ -12,7 +12,7 @@ In order to do our analyisis first we have to summarize our data using a pivot t
 
 https://github.com/gotica462/kickstater-analysis/blob/main/Theater_Outcomes_vs_Launch.png
 
-
+![](images/Theater_Outcomes_vs_Launch.png)
 
 
 
