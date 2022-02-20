@@ -8,7 +8,7 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
-In order to do our analyisis first we have to summarize our data using a pivot table using the date the fundraising was launched. We want to know the outcome of those fundraising based on the launch date. We also need to filter the category that we are interested in, which in our case is theater. 
+In order to do our analyisis first we have to summarize our data using a pivot table using the date the fundraising was launched. We want to know the outcome of those fundraising based on the launch date. We also need to filter the parent category that we are interested in, which in our case is theater. 
 (see below images for the results)
 
 ![image](https://user-images.githubusercontent.com/99451833/154864221-5cf89631-6ca0-494f-9de6-4c227621db9d.png)
