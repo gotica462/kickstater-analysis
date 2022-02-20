@@ -2,7 +2,7 @@
 
 ## Crowfunding Analysis
 
-### We want to determine how different fundraising campaigns fared in relation to their launch dates and their funding goals. 
+ We want to determine how different fundraising campaigns fared in relation to their launch dates and their funding goals. 
 
 ## Analysis and Challenges
 
