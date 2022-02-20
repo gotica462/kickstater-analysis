@@ -17,7 +17,10 @@ In order to do our analyisis first we have to summarize our data using a pivot t
 
 ### Analysis of Outcomes Based on Goals
 
-For our analysis based on goals, we want to know the percentage of succes or failure in the fundraising's campaigns based on the money asked. We only want to know the percentage of those fundraisings pertaining to the subcategory "plays".
+For our analysis based on goals, we want to know the percentage of succes or failure in the fundraising's campaigns based on the money asked. We only want to know the percentage of those fundraisings pertaining to the subcategory "plays". In order to do that we need to create a table with the ammmount of money of our goals and then use the COUNTIF() function in excel to determine the number of plays that were succcesful or failed in that ammount range. (See table below)
+
+![image](https://user-images.githubusercontent.com/99451833/154868157-d97eab23-4cdb-424a-b964-329b16bb3a52.png)
+
 
 ### Challenges and Difficulties Encountered
 
