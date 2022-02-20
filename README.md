@@ -25,16 +25,12 @@ We will use a line chart to better illustrate our results.
 
 ![image](https://user-images.githubusercontent.com/99451833/154868245-b30c1f25-7d97-4133-85d3-d77ec5335caa.png)
 
-
-
-
-
-
-
-
-
 ### Challenges and Difficulties Encountered
 
+ One of the challenges we encountered was that the data for parent/category was together in one column, and for the purposes of our analysis we need it to split it into two separate columns of Parent and Subcategory to get additional insight. This was accomplished by using the "Text to Columns" and "Convert text to Columns Wizard" in excell.
+  Another challeng presented was that the launch at column was in Unix Timestamps, so we use the formula "=(("Column_Launched at"/60)/24) + DATE (1970,1,1)  to convert it to day-month-year format.
+  
+  
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
