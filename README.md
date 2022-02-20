@@ -15,12 +15,9 @@ In order to do our analyisis first we have to summarize our data using a pivot t
 
 ![image](https://user-images.githubusercontent.com/99451833/154864221-5cf89631-6ca0-494f-9de6-4c227621db9d.png)
 
-
-
-
-
-
 ### Analysis of Outcomes Based on Goals
+
+For our analysis based on goals, we want to know the percentage of succes or failure in the fundraising's campaigns based on the money asked. We only want to know the percentage of those fundraisings pertaining to the subcategory "plays".
 
 ### Challenges and Difficulties Encountered
 
