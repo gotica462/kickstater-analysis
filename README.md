@@ -10,7 +10,7 @@
 
 In order to do our analyisis first we have to summarize our data using a pivot table using the date the fundraising was launched. We want to know the outcome of those fundraising based on the launch date. We also need to filter the category that we are interested in, which in our case is teather. 
 
-https://github.com/gotica462/kickstater-analysis/blob/main/Theater_Outcomes_vs_Launch.png
+
 
 ![](images/Theater_Outcomes_vs_Launch.png)
 
