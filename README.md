@@ -23,6 +23,10 @@ For our analysis based on goals, we want to know the percentage of succes or fai
 
 We will use a line chart to better illustrate our results.
 
+https://github.com/gotica462/kickstater-analysis/blob/main/Outcomes_vs_Goals.png
+
+
+
 
 
 
