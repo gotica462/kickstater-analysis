@@ -30,12 +30,15 @@ We will use a line chart to better illustrate our results.
  One of the challenges we encountered was that the data for parent/category was together in one column, and for the purposes of our analysis we need it to split it into two separate columns of Parent and Subcategory to get additional insight. This was accomplished by using the "Text to Columns" and "Convert text to Columns Wizard" in excell.
   Another challeng presented was that the launch at column was in Unix Timestamps, so we use the formula "=(("Column_Launched at"/60)/24) + DATE (1970,1,1)  to convert it to day-month-year format.
   
+  ## Results
+ 
+ Based on our data analysis we can conclude that those fundraising campaigns that launched between May and July tend to be more succesful than the other months, so we could suggest to start our campaign in the summer months.
+We can also determine that December is the worst month to start a findraising campaign, since the percentage of failed/succesfull campaigns is almost the same. We can also determine that those campaign's "canceled" average the same throught out every month, so thos campaigns does not affect our analyisis.
+
+  In our Oucomes based on Goals analysis for plays, we can determine that the more succesfull campaigns are those were the goal is between 0 and 5000, and if the range of the ammount of money for the goal increases, so does the likelihood that fundtraising will fail.  In simple terms, the more money is needed the less likey is the campaign to succeed. 
   
-## Results
+  
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-- What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
 
