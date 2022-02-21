@@ -37,9 +37,8 @@ We can also determine that December is the worst month to start a findraising ca
 
   In our Oucomes based on Goals analysis for plays, we can determine that the more succesfull campaigns are those were the goal is between 0 and 5000, and if the range of the ammount of money for the goal increases, so does the likelihood that fundtraising will fail.  In simple terms, the more money is needed the less likey is the campaign to succeed. 
   
-  
+   If we want to dig deeper into our data analyisis, we could also do a Pivot Table and a graph using the country as the filter. Are fundraising more succesfull in the US? in Great Britain? How many more campaigns are done in the Us than in Great Britain? 
+   We could also do a graph for the number of backers and how much they each pledge? is the goal ammount related to then number of backers? What is the average donated by  each backer? 
+   Another table that would be useful is to create a table and a graph to see how the data is distributed by looking at The three key measures of central tendency: mean, median, and mode. Are there any data outliers that affecting our results? What is the ammount of money that they pledge that is more repeatede in our database?
 
 
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
